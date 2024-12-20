@@ -1,5 +1,5 @@
 # Surveillance Protection
-<<<<<<< HEAD
+
 Ce projet vise à...
 =======
 
