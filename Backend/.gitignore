@@ -1,0 +1,36 @@
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+*.pyo
+
+# Django specific
+*.log
+db.sqlite3
+*.pot
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# PyCharm specific files
+.idea/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Static and media files (if managed outside version control)
+staticfiles/
+media/
+
+# Migrations (optional, if you don't want to track migrations)
+*/migrations/*.pyc
+*/migrations/*.pyo
+*/migrations/*.log
+*/migrations/__pycache__/
